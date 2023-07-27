@@ -5,5 +5,31 @@
     background-color: slategrey;
     border: 2px solid;
     border-radius: 5px;
-    padding: 30px;
+    padding: 10px;
+}
+
+#gösterge{
+    text-align: center;
+    padding: 10px 0px 10px 0px ;
+}
+
+#sonuç{
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 10px ;
+    width: 80%;
+    text-align: right;
+    word-wrap: break-word;
+    font-size: 40px;
+}
+
+#butonlar{
+   text-align: center;
+}
+button{ width: 80px;
+    height: 50px;
+    margin: 4px;
+    border-radius: 5px;
+    background-color: blueviolet;
+    outline: none;
 }
